@@ -1,0 +1,91 @@
+::-webkit-input-placeholder {
+	color:#222;
+}
+
+.login_div {
+	text-align: center;
+	display: block;
+	width: 90%;
+	height: 400px;
+	margin: auto;
+	border: 1px solid gray;
+	font-family: arial;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #fff;
+	border-radius: 1px;
+}
+
+input[type=text], select {
+    width: 90%;
+	font-size:15px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    width: 90%;
+	font-size:15px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=button], select {
+	padding:15px 35px;
+	background:/*#7cc576*/ black;
+	color:#fff !important;
+	font-size:16px;
+	font-weight:400;
+	font-family: 'Montserrat', sans-serif;
+	display:inline-block;
+	border-radius:3px;
+	text-transform:uppercase;
+	line-height:25px;
+	margin-bottom:20px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	/*width: 44%;
+	font-size:15px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	background-color: #7BC475;*/ /*#6699FF;
+	border: 0px;
+	font-family: arial;
+	color: #fff;
+}*/
+
+input[type=reset], select {
+	width: 44%;
+	font-size:16px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	background-color: #7BC475;
+	border: 0px;
+	font-family: arial;
+	color: #fff;
+}
+
+hr {
+	width: 90%;
+	border:0px;
+	height:1px;
+	background-color: #ddd;
+}
+
+body {
+	background: url('img/pw_maze_black_2X.png') repeat;
+}
+
+table {
+	position: relative;
+	left: calc((100% - 800px) / 2);
+}

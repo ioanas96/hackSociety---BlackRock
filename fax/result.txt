@@ -1,0 +1,14 @@
+Investment Instruction
+BLACKROCK@
+RED
+Amount
+€79,842,972.00
+iShares Core
+Fund
+MSCI EAFE ETF
+Ticker
+IEFA
+Client
+George Clooney
+Authorizer
+Aaron Eckhart

@@ -1,0 +1,14 @@
+Investment Instruction 45 40
+BLACKROCK@ 182 38
+RED 320 374
+Amount 394 153
+Fund 492 184
+Ticker 590 170
+Client 664 176
+Authorizer 812 127
+€79,842,972.00 394 454
+iShares Core 468 478
+MSCI EAFE ETF 516 441
+IEFA 590 554
+George Clooney 664 450
+Aaron Eckhart 812 465
